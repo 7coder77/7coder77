@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aniruddha Joshi
 - 👀 I’m interested in programming in Python
-- 🌱 I’m currently learning BE Computer
+- 🌱 I have completed my BE in Computer Science
 - 📫 How to reach me aniruddhajoshi12@gmail.com
 
 <!---
