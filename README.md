@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7coder77
+- 👋 Hi, I’m Aniruddha Joshi
 - 👀 I’m interested in programming in Python
 - 🌱 I’m currently learning BE Computer
 - 📫 How to reach me aniruddhajoshi12@gmail.com
